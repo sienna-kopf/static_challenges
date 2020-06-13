@@ -1,0 +1,66 @@
+#landmark5280 {
+  background-color: hsl(0, 100%, 40%);
+  color: white;
+  font: helvetica;
+  font-weight: bold;
+  padding: 8px;
+}
+#pagenav {
+  text-align: right;
+  color: white;
+  background-color: rgb(60, 60, 60);
+  font: 0.6em helvetica;
+  word-spacing: 8px;
+  padding: 10px 12px;
+}
+.pagelink {
+  text-decoration: underline;
+}
+#loginlink {
+  text-align: right;
+  font-size: 0.6em;
+}
+#wideanglephoto {
+  width: 70%;
+  height: 40%;
+  margin-top: 30px;
+  margin-left:30px;
+}
+#dam {
+  margin-left: 40px;
+  margin-top: 15px;
+  font-weight: bold;
+  font: helvetica;
+  font-size: 1.4em;
+}
+p {
+  margin-left: 40px;
+  font: helvetica;
+  width: 65%;
+}
+.smallimg {
+  width:20%;
+  height:15%
+  align-items: right;
+}
+article {
+  text-align: right;
+  text-align: top;
+}
+.smallheader {
+  font: helvetica;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: right;
+}
+section {
+  margin-right: 35px;
+}
+footer {
+  background-color: rgb(60,60,60);
+  color: white;
+  padding: 7px;
+  font: helvetica;
+  font-size: 0.6em;
+  margin: 10px;
+}
